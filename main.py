@@ -15,10 +15,7 @@ import plotly.express as px
 
 ###################### - Tab Structures
 
-st.markdown(
-    '<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">',
-    unsafe_allow_html=True,
-)
+
 query_params = st.experimental_get_query_params()
 tabs = ["Home", "Data Cleaning", "Statistical Functions", "Contact"]    ###### Tab Names
 if "tab" in query_params:
