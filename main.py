@@ -44,14 +44,14 @@ cleaning.markdown('# Data Cleaning')
 cleaning.markdown('''The data cleaning and preperation was conducted in python. The key steps were:''')
 cleaning.markdown('''
 
-    	* Remove personal information of respondents (emails, names)
+    	* Remove personal information of respondents (emails, names).
     	* Remove respondents who did not consent to their information being included in the study. 
     	* Convert categrocial object variables to numeric data. 
     	* Deal with 'other' response for type of work. 
-    	* Create new variable combining if a respondent lived with someone at high risk from covid and the type of risk that person was categorised as"
-    	* Create summary variables for the Barratt Test (total score, cognitive, motor, not planned scores)
-    	* Create summary variables for compliance with health measures test (total score, hygine, social distancing, sanitary measures scores)
-    	* Create variable categorising respondents in two groups according to their age (18-25, 26-40)
+    	* Create new variable combining if a respondent lived with someone at high risk from covid and the type of risk that person was categorised as.
+    	* Create summary variables for the Barratt Test (total score, cognitive, motor, not planned scores).
+    	* Create summary variables for compliance with health measures test (total score, hygine, social distancing, sanitary measures scores).
+    	* Create variable categorising respondents in two groups according to their age (18-25, 26-40).
 
 
     	'''
