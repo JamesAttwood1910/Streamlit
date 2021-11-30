@@ -57,7 +57,7 @@ cleaning.markdown('''
     	'''
 
     	)
-cleaning.markdown('''The full code used in the cleaning process is available on [Github](https://github.com/JamesAttwood1910/Diplomado_USACH/blob/main/Data_cleaning_DissertationProject.ipynb)''')
+cleaning.markdown('''The full code used in the cleaning process is available on [Github](https://github.com/JamesAttwood1910/Diplomado_USACH/blob/main/Data_cleaning_DissertationProject.ipynb).''')
 
 
 
